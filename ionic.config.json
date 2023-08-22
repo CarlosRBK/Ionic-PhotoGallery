@@ -1,0 +1,11 @@
+{
+  "name": "photo-gallery",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "server": {
+    "port": 8100,
+    "externalNetworkInterfaces": ["0.0.0.0"]
+  }
+}
